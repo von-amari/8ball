@@ -1,0 +1,19 @@
+body {
+  background-color: #f1f1f1;
+}
+
+h2 {
+  text-align: center;
+}
+#myImg {
+  margin: 0 auto;
+  display: block;
+  width: 400px;
+}
+#msg {
+  position: absolute;
+  width: 120px;
+  left: 707px;
+  top: 160px;
+  opacity: 0.5;
+}
