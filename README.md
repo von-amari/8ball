@@ -3,4 +3,6 @@
 
 
 
+[8 Ball Github page](https://von-amari.github.io/8ball/)
+
 <img src="8ballscreen.png" width="500">
